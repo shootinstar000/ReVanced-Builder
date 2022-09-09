@@ -1,3 +1,32 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-
+amoled
+hide-cast-button
+hide-autoplay-button
+disable-fullscreen-panels
+hide-shorts-button
+theme
+enable-wide-searchbar
+tablet-mini-player
+always-autorepeat
+enable-debugging
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+swipe-controls
+downloads
+seekbar-tapping
+disable-create-button
+return-youtube-dislike
+premium-heading
+old-quality-layout
+hide-watermark
+sponsorblock
+minimized-playback
+client-spoof
+custom-video-buffer
+microg-support
+settings
+custom-playback-speed
+hdr-auto-brightness
+remember-video-quality
+video-ads
+general-ads
+hide-infocard-suggestions
