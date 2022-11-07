@@ -2,8 +2,16 @@
 amoled
 hide-cast-button
 hide-autoplay-button
+hide-time-and-seekbar
+hide-crowdfunding-box
+hide-video-buttons
 disable-fullscreen-panels
 hide-shorts-button
+hide-watch-in-vr
+hide-album-cards
+disable-auto-player-popup-panels
+disable-fullscreen-panels
+hide-artist-card
 theme
 enable-wide-searchbar
 tablet-mini-player
@@ -27,11 +35,15 @@ custom-video-buffer
 microg-support
 settings
 custom-playback-speed
+hide-email-address
+hide-my-mix
 hdr-auto-brightness
 remember-video-quality
 video-ads
 general-ads
 hide-infocard-suggestions
+disable-auto-captions
+disable-startup-shorts-player
 # For YT Music
 minimized-playback-music
 tasteBuilder-remover
