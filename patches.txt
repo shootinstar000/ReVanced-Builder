@@ -44,6 +44,7 @@ general-ads
 hide-infocard-suggestions
 disable-auto-captions
 disable-startup-shorts-player
+open-links-directly
 # For YT Music
 minimized-playback-music
 tasteBuilder-remover
